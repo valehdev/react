@@ -1,6 +1,28 @@
-.user-list {
-    width: 60px;
+.user-list {}
+
+
+
+.user-item-fullname {
+    display: inline-block;
+    margin: 10px;
+    width: 130px;
     height: 60px;
-    border: 1px solid #eee;
+    border: 1px solid black;
+}
+
+.user-item-actions {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid black;
     
+}
+
+.user-item-edit {
+    margin: 10px;
+    display: inline-block;
+}
+
+.user-item-delete {
+    margin: 10px;
+    display: inline-block;
 }

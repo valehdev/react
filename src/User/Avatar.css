@@ -1,5 +1,10 @@
-.avatar-item {
-    width: 50px;
-    height: 50px;
-    border: 1px solid #3E4140;
+.user-avatar-block {
+    display: inline-block;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.user-avatar-item {
+    width: 30px;
+    display: inline-block;
 }
